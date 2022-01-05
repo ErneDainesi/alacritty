@@ -6,8 +6,10 @@
 
 ## Import files (Colors, Fonts, Etc)
 import:
-  - ~/.config/alacritty/colors.yml
-  - ~/.config/alacritty/fonts.yml
+  # - ~/.config/alacritty/colors.yml
+  # - ~/.config/alacritty/colorschemes/Tokyo_night.yaml
+  - ~/.config/alacritty/colorschemes/catppuccin.yaml
+  # - ~/.config/alacritty/fonts.yml
 
 ## Set environment variables
 env:
@@ -15,10 +17,10 @@ env:
 
 ## Terminal window settings
 window:
-  dimensions:
-    columns: 130
-    lines: 45
-
+  # dimensions:
+  #   columns: 130
+  #   lines: 45
+  #
   padding:
     x: 0
     y: 0
