@@ -1,0 +1,23 @@
+font:
+  # Normal (roman) font face
+  normal:
+    family: "FantasqueSansMono Nerd Font Mono"
+    style: Regular
+
+  # Bold font face
+  bold:
+    family: "FantasqueSansMono Nerd Font Mono"
+    style: Bold
+
+  # Italic font face
+  italic:
+    family: "FantasqueSansMono Nerd Font Mono"
+    style: Italic
+
+  # Bold italic font face
+  bold_italic:
+    family: "FantasqueSansMono Nerd Font Mono"
+    style: Bold Italic
+
+  # Point size
+  size: 14

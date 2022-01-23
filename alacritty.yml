@@ -9,7 +9,7 @@ import:
   # - ~/.config/alacritty/colors.yml
   # - ~/.config/alacritty/colorschemes/Tokyo_night.yaml
   - ~/.config/alacritty/colorschemes/catppuccin.yaml
-  # - ~/.config/alacritty/fonts.yml
+  - ~/.config/alacritty/fonts/jetbrains.yml
 
 ## Set environment variables
 env:
